@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonny Beyond Bloggin&#39;</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Jonny Beyond Bloggin&#39;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2018 (Jonny Beyond). All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 01 Jun 2018 22:23:17 -0600</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello with Hugo</title>
+      <link>http://www.example.com/post/hello/</link>
+      <pubDate>Fri, 01 Jun 2018 22:23:17 -0600</pubDate>
+      
+      <guid>http://www.example.com/post/hello/</guid>
+      <description>Howdy. First post in sunny midnight at the Jonny Beyond ranch.</description>
+    </item>
+    
+  </channel>
+</rss>
