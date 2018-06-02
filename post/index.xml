@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.com/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Jonny Beyond Blogging</title>
+    <link>https://jonnybeyond.github.io/post/</link>
+    <description>Recent content in Posts on Jonny Beyond Blogging</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Jun 2018 06:51:47 -0600</lastBuildDate>
     
-	<atom:link href="http://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonnybeyond.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World: Good to see you again.</title>
-      <link>http://example.com/post/hello/</link>
+      <link>https://jonnybeyond.github.io/post/hello/</link>
       <pubDate>Sat, 02 Jun 2018 06:51:47 -0600</pubDate>
       
-      <guid>http://example.com/post/hello/</guid>
+      <guid>https://jonnybeyond.github.io/post/hello/</guid>
       <description>Welcome to the Midnight Sun Ranch house.</description>
     </item>
     
